@@ -1,0 +1,16 @@
+{
+  "index": "GoalFlow Overview",
+  "features": "Features",
+  "roadmap": "Roadmap",
+  "installation": "Installation",
+  "changelog": "Changelog",
+  "separator1": {
+    "type": "separator"
+  },
+  "guides": "Guides",
+  "separator2": {
+    "type": "separator"
+  },
+  "development": "Development"
+}
+
